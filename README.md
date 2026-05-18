@@ -1,17 +1,30 @@
 ## Hi there 👋
 
-An aspiring AI/ML Engineer and Quant Developer focused on building high-performance systems and data-driven solutions. Currently practicing the 80/20 rule: focus on high-impact concepts and real-world project implementation.
+Focused on algorithmic problem solving in C++ and applied data science using Python. Building technical depth through structured problem-solving and hands-on repository implementations.
 
-- 🔭 **I’m currently working on:** Building an end-to-end data pipeline and exploratory data analysis (EDA) framework in my `ai-ml-workspace`.
-- 🌱 **I’m currently learning:** Advanced Data Structures & Algorithms (Recursion, Divide & Conquer) in C++ and deep-diving into the Python Data Science ecosystem (Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn).
-- 💬 **Ask me about:** Data preprocessing, exploratory data analysis (EDA), automated data profiling, or breaking down complex logic for problem-solving.
-- 📫 **How to reach me:** Connect with me on [LinkedIn](https://www.linkedin.com/in/mohit-bhalla01) or reach out via [Email](mailto:mohitbhalla.0107@gmail.com) for technical discussions.
-- ⚡ **Fun fact:** I don't just write code; I genuinely enjoy the thrill of breaking down complex problems. Give me a messy dataset or a tricky DSA logic over a straightforward tutorial any day.
+### 🎯 Roadmap & Active Focus (2026)
+- **Data Structures & Algorithms:** Implementing core algorithmic paradigms (Recursion patterns, Backtracking, Divide & Conquer techniques) to optimize code for time and space complexity.
+- **Applied Data Science:** Developing data cleaning scripts, exploratory data analysis (EDA), and baseline predictive modeling workflows with model evaluation pipelines.
+- **Database Fundamentals:** Writing structured queries, managing relational schemas, and handling CRUD operations using MySQL.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Technical Stack
 - **Languages:** C++, Python, SQL
-- **Data Science & ML:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, ydata-profiling
-- **Databases:** MySQL
-- **Developer Tools:** Git, GitHub
+- **Data Science & ML Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, ydata-profiling
+- **Databases & Workflow:** MySQL, Git, GitHub
+
+---
+
+### 📁 Core Repositories
+
+#### 🔹 [DSA-Tracker](https://github.com/mohitbhalla01/DSA-Tracker)
+- **Purpose:** Centralized repository tracking problem-solving progress in C++.
+- **Focus:** Array optimization problems, recursive logic, and basic data structures analyzed for time and space complexity.
+
+#### 🔹 [ml-foundations](https://github.com/mohitbhalla01/ml-foundations)
+- **Purpose:** Source code and notebooks for practical machine learning and data exploration.
+- **Key Deliverables:** Student Placement predictive accuracy script (Train-Test Split evaluation), exploratory data analysis notebooks, and automated ydata-profiling HTML reports.
+
+---
+- 📫 **Connect:** [LinkedIn](https://www.linkedin.com/in/mohit-bhalla01) | [Email](mailto:mohitbhalla.0107@gmail.com)
